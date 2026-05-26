@@ -1,4 +1,4 @@
-const comunidades = ["Barrio La Paz", "Comunidad Escolar", "Junta Juvenil"]
+const comunidades = ["Barrio La Paz", "Comunidad Escolar", "Junta Juvenil", "Comunidad de la Salud", "Comunidad de la Cultura", "Comunidad Deportiva"]
 
 console.log("Primer ejemplo de array")
 console.log("Un array permite guardar varios datos en una sola variable.")
