@@ -1,47 +1,46 @@
 Conceptos básicos de arrays, for y for...of – Semana 3 Día 4
 
-Nombre del estudiante:
-Fecha:
-Nombre de la rama:
+Nombre del estudiante: Joshua Daniel Fernandez Castro
+Fecha: 22/05/2026
+Nombre de la rama: Joshua_Fernandez
 
 Responde con tus propias palabras.
-
 1. ¿Qué es un array en JavaScript?
 
-Respuesta:
+Respuesta: Es una estructura de datos que permite almacenar de forma ordenada una colección de elementos (como textos, números u objetos) dentro de una misma variable, donde cada elemento tiene una posición asignada mediante un índice que inicia en 0.
 
 2. ¿Para qué sirve guardar varios datos en un array?
 
-Respuesta:
+Respuesta: Sirve para agrupar información que tiene relación entre sí bajo un solo contenedor. Esto facilita enormemente la manipulación, ordenamiento, filtrado y recorrido de los datos de manera masiva y eficiente, evitando tener que crear variables individuales para cada dato.
 
 3. ¿Qué tipo de información comunitaria podría guardarse en un array?
 
-Respuesta:
+Respuesta: Se pueden guardar listas con los nombres de los líderes comunales, el conjunto de propuestas vecinales del año, las bitácoras de tareas pendientes, los mensajes de reportes ciudadanos o los enlaces a las fuentes de información de los proyectos locales.
 
 4. ¿Qué hace un for tradicional?
 
-Respuesta:
+Respuesta: Es un ciclo de control iterativo que repite un bloque de instrucciones un número determinado de veces. Requiere la declaración de una variable contadora (inicialización), una condición de parada y una expresión de incremento o decremento.
 
 5. ¿Qué representa la variable i en un for tradicional?
 
-Respuesta:
+Respuesta: Representa el índice o la posición numérica actual del ciclo en el recorrido. Funciona como un puntero dinámico que se incrementa en cada iteración, permitiendo acceder secuencialmente a cada elemento del array mediante su sintaxis de corchetes.
 
 6. ¿Qué significa .length?
 
-Respuesta:
+Respuesta: Es una propiedad nativa de los arrays en JavaScript que devuelve la cantidad total de elementos que contiene la lista en un momento específico, sirviendo como el límite dinámico ideal para la condición de un ciclo.
 
 7. ¿Qué hace for...of?
 
-Respuesta:
+Respuesta: Es una estructura iterativa moderna que recorre directamente los valores de un objeto iterable (como un array) de principio a fin, abstrayendo por completo el manejo manual de índices y contadores.
 
 8. ¿Qué diferencia inicial encuentras entre for y for...of?
 
-Respuesta:
+Respuesta: La diferencia principal es que el for tradicional obliga a controlar manualmente el índice numérico, las condiciones de parada y el incremento, mientras que el for...of es mucho más limpio y directo, dándonos el valor del elemento inmediatamente en cada vuelta sin preocuparnos por su posición.
 
 9. ¿Qué hace el comando npm run revisar?
 
-Respuesta:
+Respuesta: Ejecuta un script personalizado que fue configurado previamente dentro de la sección "scripts" del archivo package.json del proyecto, el cual internamente se encarga de correr el archivo array-basico.js para validar los cambios en la terminal.
 
 10. ¿Cómo puede ayudar un array organizado a la participación ciudadana?
 
-Respuesta:
+Respuesta: Permite estructurar de forma limpia las votaciones, solicitudes o propuestas ciudadanas. Al estar organizadas digitalmente en un array, se pueden procesar mediante software para generar estadísticas públicas, asegurar que todas las solicitudes sean auditadas de manera equitativa y evitar que los aportes de la comunidad se pierdan en el desorden administrativo.
